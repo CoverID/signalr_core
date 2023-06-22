@@ -11,7 +11,7 @@ dependencies:
   logging: ^1.2.0
   meta: ^1.1.8
   tuple: ^2.0.1
-  web_socket_channel: ^1.1.0
+  web_socket_channel: ^2.0.0
   sse_client: ^0.1.0
   equatable: ^1.2.3
 
