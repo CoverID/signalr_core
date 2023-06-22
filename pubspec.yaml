@@ -10,7 +10,7 @@ dependencies:
   http: ^0.13.6
   logging: ^1.2.0
   meta: ^1.1.8
-  tuple: ^1.0.3
+  tuple: ^2.0.1
   web_socket_channel: ^1.1.0
   sse_client: ^0.0.3
   equatable: ^1.2.3
